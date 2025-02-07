@@ -45,4 +45,10 @@ on top of windows 8 and above.
 - College Lab Munual **1st Experiment**
 - [VirtualBox Maual](https://www.virtualbox.org/manual/)
 - [Ubuntu Guide](https://ubuntu.com/tutorials)
-- 
+
+---
+
+🙏 **Thank you for visiting!**  
+I hope this guide helps you set up your virtual machine and install Ubuntu Linux. If you found it useful, consider giving the repo a star ⭐ or sharing it with others. Every bit of support is appreciated! 🌟
+
+😊 Enjoy your getting output of cloudComputing experiments!
